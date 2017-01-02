@@ -1,0 +1,893 @@
+﻿<Page
+    x:Class="HappyMoments.View.MakeHappyPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HappyMoments.Controller"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Background>
+        <SolidColorBrush Color="#FFECF0F1"/>
+    </Page.Background>
+
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <SlideNavigationTransitionInfo/>
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+
+    <Page.Resources>
+
+        <Flyout x:Name="addPin" x:Key="pinAttachedFlyout" Placement="Top">
+
+            <Grid Margin="20">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0" Margin="0,0,0,10">
+
+                    <Grid.Resources>
+                        <local:MediumFontsizeConverter x:Key="FontSizeConverter"/>
+                    </Grid.Resources>
+
+                    <TextBlock Text="4 haneli güvenlik kodunu giriniz" FontFamily="Calibri" Foreground="#6c6c6c" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                </Grid>
+
+                <Grid Grid.Row="1">
+
+                    <TextBox x:Name="pinTextBox" InputScope="Number" MaxLength="4" Background="Transparent" FontFamily="Calibri" TextWrapping="Wrap" BorderBrush="#8bc34a" BorderThickness="0.5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,0,0,10"/>
+
+                </Grid>
+
+                <Grid Grid.Row="2">
+
+                    <Grid Margin="0,0,0,5">
+
+                        <Grid.Resources>
+                            <local:SmallFontsizeConverter x:Key="FontSizeConverter"/>
+                        </Grid.Resources>
+
+                        <Grid x:ConnectionId='11' Margin="0,0,5,0" x:Name="enterPin"                         >
+
+                            <Rectangle Fill="#ea3c6d" Height="auto"/>
+
+                            <TextBlock Text="Doğrula" FontFamily="Calibri" FontWeight="Bold" Margin="0,10,0,10" Foreground="#ffffff" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                        </Grid>
+
+                    </Grid>
+
+                </Grid>
+
+            </Grid>
+
+        </Flyout>
+
+        <Flyout x:Name="addCard" x:Key="addCardAttachedFlyout" Placement="Full">
+
+            <Grid Margin="10">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+
+                    <Image x:ConnectionId='10' x:Name="exitaddCard" Source="ms-appx:///Assets/Icons/close.png" Stretch="Uniform" HorizontalAlignment="Right" Height="15" Width="15" Margin="0,0,20,0"                            />
+
+                </Grid>
+
+                <Grid Grid.Row="1" VerticalAlignment="Center">
+
+                    <StackPanel>
+
+                        <TextBlock Text="Yeni Kart Ekleyiniz" FontFamily="Calibri" FontSize="18" Foreground="#9b9b9b" Margin="20,20,0,0"/>
+
+                        <Grid Margin="20,10,20,0">
+
+                            <Rectangle Fill="#f3f3f3" Height="auto"/>
+
+                            <TextBox x:Name="CardName" PlaceholderText="Kart sahibinin adı, soyadı" Foreground="#a4a8a9"  VerticalAlignment="Center" Style="{StaticResource TextBoxStyle}"/>
+
+                        </Grid>
+
+                        <Grid Margin="20,10,20,0">
+
+                            <Rectangle Fill="#f3f3f3" Height="auto"/>
+
+                            <TextBox x:Name="CardNumber" InputScope="Number" MaxLength="16" PlaceholderText="Kart numarası" Foreground="#a4a8a9" VerticalAlignment="Center" Style="{StaticResource TextBoxStyle}"/>
+
+                        </Grid>
+
+                        <Grid Margin="20,10,20,0">
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*"/>
+                                <ColumnDefinition Width="1*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Grid Grid.Column="0" Margin="0,0,5,0">
+
+                                <Rectangle Fill="#f3f3f3" Height="auto"/>
+
+                                <Grid>
+
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <Grid Grid.Column="0">
+
+                                        <TextBox x:Name="Month"  InputScope="Number" MaxLength="2" PlaceholderText="Ay" Foreground="#a4a8a9" VerticalAlignment="Center" Style="{StaticResource TextBoxStyle}"/>
+
+                                    </Grid>
+
+                                    <Grid Grid.Column="1">
+
+                                        <TextBox x:Name="Year"  InputScope="Number" MaxLength="4" PlaceholderText="Yıl" Foreground="#a4a8a9" VerticalAlignment="Center" Style="{StaticResource TextBoxStyle}"/>
+
+                                    </Grid>
+
+                                </Grid>
+
+                            </Grid>
+
+                            <Grid Grid.Column="1" Margin="5,0,0,0">
+
+                                <Rectangle Fill="#f3f3f3" Height="auto"/>
+
+                                <TextBox x:Name="CvcCode"  InputScope="Number" MaxLength="3" PlaceholderText="CVC" Foreground="#a4a8a9" VerticalAlignment="Center" Style="{StaticResource TextBoxStyle}"/>
+
+                            </Grid>
+
+                        </Grid>
+
+                        <Grid Margin="20,10,20,0">
+
+                            <Grid x:ConnectionId='9' x:Name="addCardButton"                              >
+
+                                <Rectangle Fill="#ee4156" Height="50"/>
+
+                                <TextBlock Text="Kart Bilgilerini Kaydet" FontFamily="Calibri" FontSize="16" Foreground="#ffffff" Margin="20,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                            </Grid>
+
+                        </Grid>
+
+                    </StackPanel>
+
+                </Grid>
+
+            </Grid>
+
+        </Flyout>
+
+        <Flyout x:Name="message" x:Key="messageAttachedFlyout" Placement="Full">
+
+            <Grid Margin="20">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0" Margin="0,0,0,10">
+
+                    <Grid.Resources>
+                        <local:MediumFontsizeConverter x:Key="FontSizeConverter"/>
+                    </Grid.Resources>
+
+                    <StackPanel>
+
+                        <Image x:ConnectionId='8' x:Name="exitTextMessage" Source="ms-appx:///Assets/Icons/close.png" Stretch="Uniform" HorizontalAlignment="Right" Height="15" Width="15"                                />
+
+                        <Grid>
+
+                            <Grid.Resources>
+                                <local:LargeFontsizeConverter x:Key="FontSizeConverter"/>
+                            </Grid.Resources>
+
+                            <TextBlock Text="Metinsel mesaj ekle" FontFamily="Calibri" Foreground="#6c6c6c" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                        </Grid>
+
+                    </StackPanel>
+
+                </Grid>
+
+                <Grid Grid.Row="1">
+
+                    <TextBox x:Name="textMessage" Background="Transparent" FontFamily="Calibri" TextWrapping="Wrap" BorderBrush="#8bc34a" BorderThickness="0.5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,0,0,10"/>
+
+                </Grid>
+
+                <Grid Grid.Row="2">
+
+                    <Grid Margin="0,0,0,5">
+
+                        <Grid.Resources>
+                            <local:SmallFontsizeConverter x:Key="FontSizeConverter"/>
+                        </Grid.Resources>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Grid x:ConnectionId='6' Grid.Column="0" Margin="0,0,5,0" x:Name="sendTextMessage"                                >
+
+                            <Rectangle Fill="#ea3c6d" Height="auto"/>
+
+                            <TextBlock Text="Mesajı Ekle" FontFamily="Calibri" FontWeight="Bold" Margin="0,10,0,10" Foreground="#ffffff" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                        </Grid>
+
+                        <Grid x:ConnectionId='7' Grid.Column="1" Margin="5,0,0,0"                                >
+
+                            <Rectangle Fill="#8a8a8a" Height="auto"/>
+
+                            <TextBlock Text="İptal et" FontFamily="Calibri" FontWeight="Bold" Margin="0,10,0,10" Foreground="#ffffff" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                        </Grid>
+
+                    </Grid>
+
+                </Grid>
+
+            </Grid>
+
+        </Flyout>
+
+        <Flyout x:Name="voiceMessage" x:Key="voiceMessageAttachedFlyout" Placement="Full">
+
+            <Grid Margin="20">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+
+                    <Grid.Resources>
+                        <local:MediumFontsizeConverter x:Key="FontSizeConverter"/>
+                    </Grid.Resources>
+
+                    <StackPanel Margin="0,0,0,10">
+
+                        <Image x:ConnectionId='5' x:Name="exitVoiceMessage" Source="ms-appx:///Assets/Icons/close.png" Stretch="Uniform" HorizontalAlignment="Right" Height="15" Width="15"                                 />
+
+                        <Grid>
+
+                            <Grid.Resources>
+                                <local:ExtraLargeFontsizeConverter x:Key="FontSizeConverter"/>
+                            </Grid.Resources>
+
+                            <TextBlock Text="Sesli mesaj ekle" FontFamily="Calibri" Foreground="#6c6c6c" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                        </Grid>
+
+                        <Grid>
+
+                            <Grid.Resources>
+                                <local:MediumFontsizeConverter x:Key="FontSizeConverter"/>
+                            </Grid.Resources>
+
+                            <TextBlock Text="30 saniyelik bir ses kaydı çekebilirsiniz." Margin="0,5,0,0" FontFamily="Calibri" Foreground="#8a8a8a" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                        </Grid>
+
+                    </StackPanel>
+
+                </Grid>
+
+                <Grid Grid.Row="1">
+
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="0,20,0,0">
+
+                        <Image x:ConnectionId='4' x:Name="play" Source="ms-appx:///Assets/Icons/play.png" Height="80" Stretch="Uniform"                     />
+
+                        <Grid>
+
+                            <Grid.Resources>
+                                <local:MediumFontsizeConverter x:Key="FontSizeConverter"/>
+                            </Grid.Resources>
+
+                            <TextBlock x:Name="voiceText" Text="Kayıt için play butonuna basınız." Margin="20,0,0,0" FontFamily="Calibri" TextWrapping="WrapWholeWords" Foreground="#8a8a8a" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                        </Grid>
+
+                    </StackPanel>
+
+                </Grid>
+
+                <Grid Grid.Row="2">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0">
+
+                        <Grid.Resources>
+                            <local:MediumFontsizeConverter x:Key="FontSizeConverter"/>
+                        </Grid.Resources>
+
+                        <TextBlock x:Name="header" Opacity="0" Text="Bir tane ses kaydı seçiniz." Margin="0,20,0,0" FontFamily="Calibri" Foreground="#8a8a8a" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                    </Grid>
+
+                    <Grid Grid.Row="1">
+
+                        <ListView x:ConnectionId='3' x:Name="list" SelectionMode="Single" Margin="0,20,0,20"                                         >
+
+                            <ListView.Resources>
+
+                                <DataTemplate x:Key="myCell">
+
+                                    <Grid Height="auto" Margin="0,5,0,5">
+
+                                        <Grid.Background>
+                                            <SolidColorBrush Color="#e6e6e6"/>
+                                        </Grid.Background>
+
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="auto"/>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <Grid Grid.Column="0">
+
+                                            <Image x:Name="play" Source="ms-appx:///Assets/NotificationIcons/play.png" Stretch="Uniform" Height="25" Margin="10,0,0,0"/>
+
+                                        </Grid>
+
+                                        <Grid Grid.Column="1">
+
+                                            <Grid.Resources>
+                                                <local:SmallFontsizeConverter x:Key="FontSizeConverter"/>
+                                            </Grid.Resources>
+
+                                            <TextBlock Text="Ses kaydı" Foreground="#df3538" Opacity="0.7" FontFamily="Calibri" Margin="0,10,0,10" TextWrapping="WrapWholeWords" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                                        </Grid>
+
+                                    </Grid>
+
+                                </DataTemplate>
+
+                            </ListView.Resources>
+
+                            <ListView.ItemContainerStyle>
+                                <Style TargetType="ListViewItem">
+                                    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                                </Style>
+                            </ListView.ItemContainerStyle>
+
+                            <ListView.ItemTemplate>
+                                <StaticResource ResourceKey="myCell"/>
+                            </ListView.ItemTemplate>
+
+                        </ListView>
+
+                    </Grid>
+
+                </Grid>
+
+                <Grid Grid.Row="3">
+
+                    <Grid Margin="0,0,0,5">
+
+                        <Grid.Resources>
+                            <local:SmallFontsizeConverter x:Key="FontSizeConverter"/>
+                        </Grid.Resources>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Grid x:ConnectionId='1' Grid.Column="0" Margin="0,0,5,0"                                 >
+
+                            <Rectangle Fill="#ea3c6d" Height="auto"/>
+
+                            <TextBlock Text="Mesajı İlet" FontFamily="Calibri" FontWeight="Bold" Margin="0,10,0,10" Foreground="#ffffff" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                        </Grid>
+
+                        <Grid x:ConnectionId='2' Grid.Column="1" Margin="5,0,0,0"                                 >
+
+                            <Rectangle Fill="#8a8a8a" Height="auto"/>
+
+                            <TextBlock Text="İptal et" FontFamily="Calibri" FontWeight="Bold" Margin="0,10,0,10" Foreground="#ffffff" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                        </Grid>
+
+                    </Grid>
+
+                </Grid>
+
+            </Grid>
+
+        </Flyout>
+
+    </Page.Resources>
+
+    <Grid>
+
+        <Grid.Background>
+            <SolidColorBrush Color="#b6b6b6"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="1"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+
+            <Grid.Background>
+                <ImageBrush ImageSource="{Binding ProfileImage}" Opacity="0.9" Stretch="UniformToFill"/>
+            </Grid.Background>
+
+            <Grid Background="#4C212121" Margin="0"/>
+
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,10">
+
+                <Grid>
+
+                    <Grid.Resources>
+                        <local:ExtraLargeFontsizeConverter x:Key="FontSizeConverter"/>
+                    </Grid.Resources>
+
+                    <TextBlock Text="{Binding Name}" FontFamily="Calibri" Foreground="#FFECF0F1" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontWeight="Bold" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                </Grid>
+
+                <Grid>
+
+                    <Grid.Resources>
+                        <local:SmallFontsizeConverter x:Key="FontSizeConverter"/>
+                    </Grid.Resources>
+
+                    <TextBlock Text="{Binding Description}" FontFamily="Calibri" TextWrapping="WrapWholeWords" Foreground="#FFECF0F1" VerticalAlignment="Bottom" TextAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                </Grid>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Grid.Row="1" Margin="0,0.5,0,0.5">
+
+            <Grid.Background>
+                <SolidColorBrush Color="White"/>
+            </Grid.Background>
+
+            <Grid Margin="10">
+
+                <FlipView x:ConnectionId='15' x:Name="flipViewOut" Background="White"                                                >
+
+                    <FlipViewItem Width="150">
+
+                        <FlipView x:ConnectionId='17' x:Name="flipViewIn" Background="White"                                               >
+
+                            <FlipView.ItemTemplate>
+
+                                <DataTemplate>
+
+                                    <Grid>
+
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="8*"/>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <Grid Grid.Column="1">
+
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="auto"/>
+                                                <RowDefinition Height="*"/>
+                                            </Grid.RowDefinitions>
+
+                                            <Grid Grid.Row="0">
+
+                                                <Grid.Background>
+                                                    <SolidColorBrush Color="#8cc14b"/>
+                                                </Grid.Background>
+
+                                                <Grid.Resources>
+                                                    <local:LargeFontsizeConverter x:Key="FontSizeConverter"/>
+                                                </Grid.Resources>
+
+                                                <TextBlock Foreground="#ffffff" Margin="20,10,0,10" FontFamily="Calibri" TextWrapping="WrapWholeWords" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}">
+                                                    <Run Text="{Binding CardName}"/>
+                                                </TextBlock>
+
+                                            </Grid>
+
+                                            <Grid Grid.Row="1">
+
+                                                <Grid.Background>
+                                                    <SolidColorBrush Color="#dddddd"/>
+                                                </Grid.Background>
+
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="auto"/>
+                                                    <ColumnDefinition Width="*"/>
+                                                </Grid.ColumnDefinitions>
+
+                                                <Grid Grid.Column="0">
+
+                                                    <Image Source="{Binding CardImage}" Height="60" Margin="20,0,0,0" Stretch="Uniform" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+                                                </Grid>
+
+                                                <Grid Grid.Column="1">
+
+                                                    <StackPanel Margin="20,0,0,0" VerticalAlignment="Center">
+
+                                                        <Grid>
+
+                                                            <Grid.Resources>
+                                                                <local:MediumFontsizeConverter x:Key="FontSizeConverter"/>
+                                                            </Grid.Resources>
+
+
+                                                            <TextBlock FontFamily="Calibri" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}">
+                                                            <Run Text="SKT :" Foreground="Black" FontWeight="Bold"/>
+                                                            <Run Text="{Binding Month}" Foreground="Black"/>
+                                                            <Run Text="/" Foreground="Black"/>
+                                                            <Run Text="{Binding Year}" Foreground="Black"/>
+                                                            </TextBlock>
+
+                                                        </Grid>
+
+                                                        <Grid Margin="0,5,0,0">
+
+                                                            <Grid.Resources>
+                                                                <local:MediumFontsizeConverter x:Key="FontSizeConverter"/>
+                                                            </Grid.Resources>
+
+                                                            <TextBlock Foreground="#000000" FontFamily="Calibri" TextWrapping="WrapWholeWords" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}">
+                                                           <Run Text="{Binding CardNumber}"/>
+                                                            </TextBlock>
+
+                                                        </Grid>
+
+                                                    </StackPanel>
+
+                                                </Grid>
+
+                                            </Grid>
+
+                                        </Grid>
+
+                                    </Grid>
+
+                                </DataTemplate>
+
+                            </FlipView.ItemTemplate>
+
+                            <FlipView.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </FlipView.ItemsPanel>
+
+                        </FlipView>
+
+                    </FlipViewItem>
+
+                    <FlipViewItem Width="150">
+
+                        <Grid>
+
+                            <Grid x:ConnectionId='16' x:Name="addNewCard" Visibility="Visible"                            FlyoutBase.AttachedFlyout="{StaticResource addCardAttachedFlyout}">
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="8*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Grid Grid.Column="1">
+
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="auto"/>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+
+                                    <Grid Grid.Row="0">
+
+                                        <Grid.Background>
+                                            <SolidColorBrush Color="#8bc34a"/>
+                                        </Grid.Background>
+
+                                        <Grid.Resources>
+                                            <local:LargeFontsizeConverter x:Key="FontSizeConverter"/>
+                                        </Grid.Resources>
+
+                                        <TextBlock Text="Yeni Kart Ekle" Foreground="#ffffff" Margin="20,10,0,10" FontFamily="Calibri" TextWrapping="WrapWholeWords" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                                    </Grid>
+
+                                    <Grid Grid.Row="1">
+
+                                        <Grid.Background>
+                                            <SolidColorBrush Color="#dddddd"/>
+                                        </Grid.Background>
+
+                                        <Grid>
+
+                                            <Grid.Resources>
+                                                <local:LargeFontsizeConverter x:Key="FontSizeConverter"/>
+                                            </Grid.Resources>
+
+                                            <TextBlock x:Name="newCard" Text="Yeni kart eklemek için tıklayın." Foreground="#000000" FontFamily="Calibri" TextWrapping="WrapWholeWords" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                                        </Grid>
+
+                                    </Grid>
+
+                                </Grid>
+
+                            </Grid>
+
+                            <Grid x:Name="addingCard" Visibility="Collapsed">
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="8*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Grid Grid.Column="1">
+
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="auto"/>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+
+                                    <Grid Grid.Row="0">
+
+                                        <Grid.Background>
+                                            <SolidColorBrush Color="#8cc14b"/>
+                                        </Grid.Background>
+
+                                        <Grid.Resources>
+                                            <local:LargeFontsizeConverter x:Key="FontSizeConverter"/>
+                                        </Grid.Resources>
+
+                                        <TextBlock Foreground="#ffffff" Margin="20,10,0,10" FontFamily="Calibri" TextWrapping="WrapWholeWords" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}">
+                                             <Run Text="{Binding CardName}"/>
+                                        </TextBlock>
+
+                                    </Grid>
+
+                                    <Grid Grid.Row="1">
+
+                                        <Grid.Background>
+                                            <SolidColorBrush Color="#dddddd"/>
+                                        </Grid.Background>
+
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="auto"/>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <Grid Grid.Column="0">
+
+                                            <Image Source="{Binding CardImage}" Height="60" Margin="20,0,0,0" Stretch="Uniform" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+                                        </Grid>
+
+                                        <Grid Grid.Column="1">
+
+                                            <StackPanel Margin="20,0,0,0" VerticalAlignment="Center">
+
+                                                <Grid>
+
+                                                    <Grid.Resources>
+                                                        <local:MediumFontsizeConverter x:Key="FontSizeConverter"/>
+                                                    </Grid.Resources>
+
+                                                    <TextBlock FontFamily="Calibri" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}">
+                                                            <Run Text="SKT :" Foreground="Black" FontWeight="Bold"/>
+                                                            <Run Text="{Binding Month}" Foreground="Black"/>
+                                                            <Run Text="/" Foreground="Black"/>
+                                                            <Run Text="{Binding Year}" Foreground="Black"/>
+                                                    </TextBlock>
+
+                                                </Grid>
+
+                                                <Grid Margin="0,5,0,0">
+
+                                                    <Grid.Resources>
+                                                        <local:MediumFontsizeConverter x:Key="FontSizeConverter"/>
+                                                    </Grid.Resources>
+
+                                                    <TextBlock Foreground="#000000" FontFamily="Calibri" TextWrapping="WrapWholeWords" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}">
+                                                           <Run Text="{Binding CardNumber}"/>
+                                                    </TextBlock>
+
+                                                </Grid>
+
+                                            </StackPanel>
+
+                                        </Grid>
+
+                                    </Grid>
+
+                                </Grid>
+
+                            </Grid>
+
+                        </Grid>
+                        
+                    </FlipViewItem>
+
+                </FlipView>
+
+            </Grid>
+
+        </Grid>
+
+        <Grid Grid.Row="2" Margin="0,0.5,0,0.5">
+
+            <Grid.Background>
+                <SolidColorBrush Color="White"/>
+            </Grid.Background>
+
+            <Slider x:Name="MoneyScale" Value="10" Minimum="0" Maximum="250" Background="#FF727272" Foreground="#689f38" SmallChange="5" StepFrequency="5" Margin="20,0,20,0"/>
+
+        </Grid>
+
+        <Grid Grid.Row="3" Margin="0,0.5,0,1">
+
+            <Grid.Resources>
+                <local:SmallFontsizeConverter x:Key="FontSizeConverter"/>
+            </Grid.Resources>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0" Margin="0,0.5,0.5,0">
+
+                <Grid.Background>
+                    <SolidColorBrush Color="White"/>
+                </Grid.Background>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+
+                    <Image Source="ms-appx:///Assets/ProfilePageIcons/pic1.png" Stretch="Uniform"/>
+
+                </Grid>
+
+                <Grid Grid.Row="1">
+
+                    <TextBlock x:Name="happyPersonCounter" FontFamily="Calibri" Foreground="#FF727272" FontWeight="Bold" TextAlignment="Center" TextWrapping="WrapWholeWords" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                </Grid>
+
+            </Grid>
+
+            <Grid x:ConnectionId='13' x:Name="sendMessage" Grid.Column="1" Margin="0.5,0.5,0.5,0"                             FlyoutBase.AttachedFlyout="{StaticResource messageAttachedFlyout}">
+
+                <Grid.Background>
+                    <SolidColorBrush Color="White"/>
+                </Grid.Background>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+
+                    <Image Source="ms-appx:///Assets/ProfilePageIcons/pic3.png" Stretch="Uniform"/>
+
+                </Grid>
+
+                <Grid Grid.Row="1">
+
+                    <TextBlock Text="Mesaj Ekle" FontFamily="Calibri" Foreground="#FF727272" FontWeight="Bold" TextAlignment="Center" TextWrapping="WrapWholeWords" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                </Grid>
+
+            </Grid>
+
+            <Grid x:ConnectionId='14' x:Name="recordVoice" Grid.Column="2" Margin="0.5,0.5,0,0"                             FlyoutBase.AttachedFlyout="{StaticResource voiceMessageAttachedFlyout}">
+
+                <Grid.Background>
+                    <SolidColorBrush Color="White"/>
+                </Grid.Background>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+
+                    <Image Source="ms-appx:///Assets/ProfilePageIcons/pic2.png" Stretch="Uniform"/>
+
+                </Grid>
+
+                <Grid Grid.Row="1">
+
+                    <TextBlock  Text="Sesli not ekle" FontFamily="Calibri" Foreground="#FF727272" FontWeight="Bold" TextAlignment="Center" TextWrapping="WrapWholeWords" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                </Grid>
+
+            </Grid>
+
+        </Grid>
+
+        <Grid Grid.Row="4">
+
+            <Grid.Background>
+                <SolidColorBrush Color="White"/>
+            </Grid.Background>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="8*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid x:ConnectionId='12' x:Name="makeHappy" Grid.Column="1"                           Margin="0,20,0,20" FlyoutBase.AttachedFlyout="{StaticResource pinAttachedFlyout}">
+
+                <Grid.Resources>
+                    <local:SmallFontsizeConverter x:Key="FontSizeConverter"/>
+                </Grid.Resources>
+
+                <Rectangle Fill="#FFFE5E5E" RadiusX="10" RadiusY="10" Height="auto" HorizontalAlignment="Stretch"/>
+
+                <TextBlock Text="MUTLU ET" Margin="0,10,0,10" FontWeight="Bold" FontFamily="Calibri" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+            </Grid>
+
+        </Grid>
+
+        <Grid Grid.Row="5">
+
+            <Grid.Background>
+                <SolidColorBrush Color="#689f38"/>
+            </Grid.Background>
+
+        </Grid>
+
+    </Grid>
+
+</Page>
+

@@ -1,0 +1,4 @@
+D:\Projects\HappyMoments\HappyMoments.Client\HappyMoments.Client.csproj;neutral
+D:\Projects\HappyMoments\HappyMoments\HappyMoments.csproj;arm
+D:\Projects\HappyMoments\HappyMomentsAPI.Models\HappyMomentsAPI.Models.csproj;neutral
+D:\Projects\HappyMoments\HappyMomentsAPI.Models\HappyMomentsAPI.Models.csproj;neutral

@@ -1,0 +1,287 @@
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.exe.config
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\App.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\MainPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\Style\AppBarButtonStyle.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\Style\TextBoxStyle.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\DetailsGiftWalletPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\DetailsNotificationPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\GiftCardPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\GiftWalletPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\Hamburger\ContactPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\Hamburger\CreditCardsPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\Hamburger\NotificationPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\Hamburger\SSSPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\HowToUsePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\LoginPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\MakeHappyPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\ProfilePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\TimelinePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\View\TokenPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.xr.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.exe
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.pdb
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\resources.pri
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\AppxManifest.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.build.appxrecipe
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\DrawerLayout.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\Iyzipay.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\Newtonsoft.Json.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\System.Net.Http.Extensions.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\System.Net.Http.Primitives.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\Newtonsoft.Json.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\System.Net.Http.Extensions.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\System.Net.Http.Primitives.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\App.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\App.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\MainPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\MainPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\Style\AppBarButtonStyle.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\Style\AppBarButtonStyle.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\Style\TextBoxStyle.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\Style\TextBoxStyle.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsGiftWalletPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsGiftWalletPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsNotificationPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsNotificationPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftCardPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftCardPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftWalletPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftWalletPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\ContactPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\ContactPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\CreditCardsPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\CreditCardsPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\NotificationPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\NotificationPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\SSSPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\SSSPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\HowToUsePage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\HowToUsePage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\LoginPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\LoginPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\MakeHappyPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\MakeHappyPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\ProfilePage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\ProfilePage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\TimelinePage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\TimelinePage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\TokenPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\TokenPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\XamlTypeInfo.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\App.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\MainPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\Style\AppBarButtonStyle.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\Style\TextBoxStyle.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsGiftWalletPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsNotificationPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftCardPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftWalletPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\ContactPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\CreditCardsPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\NotificationPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\SSSPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\HowToUsePage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\LoginPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\MakeHappyPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\ProfilePage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\TimelinePage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\TokenPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\App.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\MainPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\Style\AppBarButtonStyle.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\Style\TextBoxStyle.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsGiftWalletPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsNotificationPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftCardPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftWalletPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\ContactPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\CreditCardsPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\NotificationPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\SSSPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\HowToUsePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\LoginPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\MakeHappyPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\ProfilePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\TimelinePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\View\TokenPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\XamlSaveStateFile.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\HappyMoments.exe
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\HappyMoments.pdb
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\HappyMoments.csproj.GenerateResource.Cache
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\Microsoft.WindowsAzure.Mobile.pri
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\priconfig.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\priconfig.xml.intermediate
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\layout.resfiles
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\layout.resfiles.intermediate
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\resources.resfiles
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\resources.resfiles.intermediate
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\pri.resfiles
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\pri.resfiles.intermediate
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\qualifiers.txt
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\qualifiers.txt.intermediate
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\ProjectArchitectures.txt
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Release\HappyMoments.csprojResolveAssemblyReference.cache
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\Facebook.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Release\Facebook.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.exe.config
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\App.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\MainPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Style\AppBarButtonStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Style\TextBoxStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Style\ToggleSwitchStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\DetailsGiftWalletPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\DetailsNotificationPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\GiftCardPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\GiftWalletPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\Hamburger\ContactPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\Hamburger\CreditCardsPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\Hamburger\NotificationPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\Hamburger\SSSPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\HowToUsePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\InvitePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\LoginPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\MakeHappyPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\ProfilePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\TimelinePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\View\TokenPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.xr.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.exe
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.pdb
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\resources.pri
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\AppxManifest.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.build.appxrecipe
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\DrawerLayout.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Facebook.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.Client.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\HappyMomentsAPI.Models.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Microsoft.WindowsAzure.Messaging.Managed.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\ModernHttpClient.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Newtonsoft.Json.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\System.Net.Http.Extensions.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\System.Net.Http.Primitives.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\System.Net.Http.Formatting.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\HappyMoments.Client.pdb
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\HappyMomentsAPI.Models.pdb
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Facebook.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Microsoft.WindowsAzure.Messaging.Managed.pri
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\Newtonsoft.Json.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\System.Net.Http.Extensions.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\System.Net.Http.Primitives.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Release\System.Net.Http.Formatting.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\HappyMoments.csprojResolveAssemblyReference.cache
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\App.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\App.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\MainPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\MainPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\AppBarButtonStyle.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\AppBarButtonStyle.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\TextBoxStyle.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\TextBoxStyle.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\ToggleSwitchStyle.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\ToggleSwitchStyle.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsGiftWalletPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsGiftWalletPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsNotificationPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsNotificationPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftCardPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftCardPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftWalletPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftWalletPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\ContactPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\ContactPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\CreditCardsPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\CreditCardsPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\NotificationPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\NotificationPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\SSSPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\SSSPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\HowToUsePage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\HowToUsePage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\InvitePage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\InvitePage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\LoginPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\LoginPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\MakeHappyPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\MakeHappyPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\ProfilePage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\ProfilePage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\TimelinePage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\TimelinePage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\TokenPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\TokenPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\XamlTypeInfo.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\App.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\MainPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\AppBarButtonStyle.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\TextBoxStyle.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\ToggleSwitchStyle.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsGiftWalletPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsNotificationPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftCardPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftWalletPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\ContactPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\CreditCardsPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\NotificationPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\SSSPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\HowToUsePage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\InvitePage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\LoginPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\MakeHappyPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\ProfilePage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\TimelinePage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\TokenPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\App.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\MainPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\AppBarButtonStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\TextBoxStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Style\ToggleSwitchStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsGiftWalletPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\DetailsNotificationPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftCardPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\GiftWalletPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\ContactPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\CreditCardsPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\NotificationPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\Hamburger\SSSPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\HowToUsePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\InvitePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\LoginPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\MakeHappyPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\ProfilePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\TimelinePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\View\TokenPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\XamlSaveStateFile.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\HappyMoments.exe
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\HappyMoments.pdb
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\HappyMoments.csproj.GenerateResource.Cache
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Microsoft.WindowsAzure.Mobile.pri
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\System.Net.Http.Formatting.pri
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\System.Net.Http.Formatting\qualifiers.txt
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\priconfig.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\priconfig.xml.intermediate
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\layout.resfiles
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\layout.resfiles.intermediate
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\resources.resfiles
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\resources.resfiles.intermediate
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\pri.resfiles
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\pri.resfiles.intermediate
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\qualifiers.txt
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\qualifiers.txt.intermediate
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Release\ProjectArchitectures.txt

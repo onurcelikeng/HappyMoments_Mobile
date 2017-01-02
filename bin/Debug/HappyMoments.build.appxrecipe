@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HP-ENVY</Machine>
+    <WindowsUser>Onur</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>439ce041-70a4-44fb-a892-c47d5c8d2148</PackageIdentityName>
+    <PackageIdentityPublisher>CN=A229365C-F74D-4A04-8DC1-8D7BD7DF264E</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Projects\HappyMoments\HappyMoments\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\HappyMoments.exe">
+      <PackagePath>HappyMoments.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\HappyMoments.exe.config">
+      <PackagePath>HappyMoments.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\packages\DrawerLayout.1.0.4\lib\DrawerLayout.dll">
+      <PackagePath>DrawerLayout.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\packages\Facebook.7.0.6\lib\portable-win81+wpa81\Facebook.dll">
+      <PackagePath>Facebook.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments.Client\bin\Debug\HappyMoments.Client.dll">
+      <PackagePath>HappyMoments.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMomentsAPI.Models\bin\Debug\HappyMomentsAPI.Models.dll">
+      <PackagePath>HappyMomentsAPI.Models.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\packages\WindowsAzure.Messaging.Managed.0.1.7.9\lib\wpa81\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\packages\WindowsAzure.MobileServices.1.3.2\lib\wpa81\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\packages\WindowsAzure.MobileServices.1.3.2\lib\wpa81\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\packages\modernhttpclient.2.4.2\lib\Portable-Net45+WinRT45+WP8+WPA81\ModernHttpClient.dll">
+      <PackagePath>ModernHttpClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments.Client\bin\Debug\System.Net.Http.Formatting.dll">
+      <PackagePath>System.Net.Http.Formatting.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\HamburgerIcons\contact.png">
+      <PackagePath>Assets\HamburgerIcons\contact.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\HamburgerIcons\creditcard.png">
+      <PackagePath>Assets\HamburgerIcons\creditcard.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\HamburgerIcons\giftcard.png">
+      <PackagePath>Assets\HamburgerIcons\giftcard.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\HamburgerIcons\home.png">
+      <PackagePath>Assets\HamburgerIcons\home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\HamburgerIcons\howtouse.png">
+      <PackagePath>Assets\HamburgerIcons\howtouse.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\HamburgerIcons\logout.png">
+      <PackagePath>Assets\HamburgerIcons\logout.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\HamburgerIcons\settings.png">
+      <PackagePath>Assets\HamburgerIcons\settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\HamburgerIcons\sss.png">
+      <PackagePath>Assets\HamburgerIcons\sss.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Icons\add.png">
+      <PackagePath>Assets\Icons\add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Icons\close.png">
+      <PackagePath>Assets\Icons\close.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Icons\line.png">
+      <PackagePath>Assets\Icons\line.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Icons\line2.png">
+      <PackagePath>Assets\Icons\line2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Icons\mes.png">
+      <PackagePath>Assets\Icons\mes.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Icons\message.png">
+      <PackagePath>Assets\Icons\message.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Icons\mic.png">
+      <PackagePath>Assets\Icons\mic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Icons\pause.png">
+      <PackagePath>Assets\Icons\pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Icons\play.png">
+      <PackagePath>Assets\Icons\play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Icons\voice.png">
+      <PackagePath>Assets\Icons\voice.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\LoginImage\login1.png">
+      <PackagePath>Assets\LoginImage\login1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\LoginImage\login2.png">
+      <PackagePath>Assets\LoginImage\login2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\LoginImage\login3.png">
+      <PackagePath>Assets\LoginImage\login3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\MenuButton\calender.png">
+      <PackagePath>Assets\MenuButton\calender.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\MenuButton\explorer.png">
+      <PackagePath>Assets\MenuButton\explorer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\MenuButton\gift.png">
+      <PackagePath>Assets\MenuButton\gift.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\MenuButton\hamburger.png">
+      <PackagePath>Assets\MenuButton\hamburger.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\MenuButton\user.png">
+      <PackagePath>Assets\MenuButton\user.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\MenuButton\wallet.png">
+      <PackagePath>Assets\MenuButton\wallet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\NotificationIcons\file.png">
+      <PackagePath>Assets\NotificationIcons\file.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\NotificationIcons\like.png">
+      <PackagePath>Assets\NotificationIcons\like.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\NotificationIcons\music.png">
+      <PackagePath>Assets\NotificationIcons\music.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\NotificationIcons\pause.png">
+      <PackagePath>Assets\NotificationIcons\pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\NotificationIcons\play.png">
+      <PackagePath>Assets\NotificationIcons\play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\ProfilePageIcons\happy1.png">
+      <PackagePath>Assets\ProfilePageIcons\happy1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\ProfilePageIcons\happy2.png">
+      <PackagePath>Assets\ProfilePageIcons\happy2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\ProfilePageIcons\happy3.png">
+      <PackagePath>Assets\ProfilePageIcons\happy3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\ProfilePageIcons\pic1.png">
+      <PackagePath>Assets\ProfilePageIcons\pic1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\ProfilePageIcons\pic2.png">
+      <PackagePath>Assets\ProfilePageIcons\pic2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\ProfilePageIcons\pic3.png">
+      <PackagePath>Assets\ProfilePageIcons\pic3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\SocialMedia\facebook.png">
+      <PackagePath>Assets\SocialMedia\facebook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\SocialMedia\twitter.png">
+      <PackagePath>Assets\SocialMedia\twitter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\SocialMedia\youtube.png">
+      <PackagePath>Assets\SocialMedia\youtube.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\HappyMoments.xr.xml">
+      <PackagePath>HappyMoments.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\Style\AppBarButtonStyle.xbf">
+      <PackagePath>Style\AppBarButtonStyle.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\Style\TextBoxStyle.xbf">
+      <PackagePath>Style\TextBoxStyle.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\Style\ToggleSwitchStyle.xbf">
+      <PackagePath>Style\ToggleSwitchStyle.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\ContentDia\UpdatePinPage.xbf">
+      <PackagePath>View\ContentDia\UpdatePinPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\DetailsGiftWalletPage.xbf">
+      <PackagePath>View\DetailsGiftWalletPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\DetailsNotificationPage.xbf">
+      <PackagePath>View\DetailsNotificationPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\GiftCardPage.xbf">
+      <PackagePath>View\GiftCardPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\GiftWalletPage.xbf">
+      <PackagePath>View\GiftWalletPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\Hamburger\ContactPage.xbf">
+      <PackagePath>View\Hamburger\ContactPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\Hamburger\CreditCardsPage.xbf">
+      <PackagePath>View\Hamburger\CreditCardsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\Hamburger\NotificationPage.xbf">
+      <PackagePath>View\Hamburger\NotificationPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\Hamburger\SSSPage.xbf">
+      <PackagePath>View\Hamburger\SSSPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\HowToUsePage.xbf">
+      <PackagePath>View\HowToUsePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\LoginPage.xbf">
+      <PackagePath>View\LoginPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\MakeHappyPage.xbf">
+      <PackagePath>View\MakeHappyPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\PinPage.xbf">
+      <PackagePath>View\PinPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\ProfilePage.xbf">
+      <PackagePath>View\ProfilePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\TimelinePage.xbf">
+      <PackagePath>View\TimelinePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\View\TokenPage.xbf">
+      <PackagePath>View\TokenPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\HappyMoments\HappyMoments\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

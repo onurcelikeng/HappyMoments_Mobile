@@ -1,0 +1,925 @@
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe.config
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\App.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\MainPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Resources\Button.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\DetailsGiftWalletPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftCardPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftWalletPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\ContactPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\NotificationPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\SSSPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\LoginPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\MakeHappyPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\ProfilePage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\TimelinePage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\TokenPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.xr.xml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.pdb
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\resources.pri
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.build.appxrecipe
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\DrawerLayout.dll
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Resources\Button.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Resources\Button.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.i.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\App.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Resources\Button.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\App.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Resources\Button.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xaml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xbf
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.exe
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.pdb
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csproj.GenerateResource.Cache
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csprojResolveAssemblyReference.cache
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe.config
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\App.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\MainPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Style\AppBarButtonStyle.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Style\TextBoxStyle.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Style\ToggleSwitchStyle.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\DetailsGiftWalletPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\DetailsNotificationPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftCardPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftWalletPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\ContactPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\NotificationPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\SSSPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\HowToUsePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\InvitePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\LoginPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\MakeHappyPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\ProfilePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\TimelinePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\View\TokenPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.xr.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.pdb
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\resources.pri
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\AppxManifest.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.build.appxrecipe
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\DrawerLayout.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Facebook.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.Client.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMomentsAPI.Models.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Iyzipay.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\ModernHttpClient.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\ZXing.winmd
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Formatting.dll
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.Client.pdb
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMomentsAPI.Models.pdb
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Facebook.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\ZXing.pdb
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\ZXing.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\ZXing.pri
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Formatting.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csprojResolveAssemblyReference.cache
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.i.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\XamlTypeInfo.g.cs
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\App.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\App.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\XamlSaveStateFile.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xaml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xbf
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.exe
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.pdb
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csproj.GenerateResource.Cache
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile.pri
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting.pri
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\qualifiers.txt
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml.intermediate
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles.intermediate
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles.intermediate
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles.intermediate
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\ZXing.pri.xml
+D:\Projects\HappyMoments\Windows Phone 8.1\HappyMoments\HappyMoments\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe.config
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\App.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\MainPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\Style\AppBarButtonStyle.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\Style\TextBoxStyle.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\Style\ToggleSwitchStyle.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\DetailsGiftWalletPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\DetailsNotificationPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftCardPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftWalletPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\ContactPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\NotificationPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\SSSPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\HowToUsePage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\InvitePage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\LoginPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\MakeHappyPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\ProfilePage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\TimelinePage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\View\TokenPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.xr.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.pdb
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\resources.pri
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.build.appxrecipe
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\DrawerLayout.dll
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\Facebook.dll
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.Client.dll
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMomentsAPI.Models.dll
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\ModernHttpClient.dll
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\ZXing.winmd
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Formatting.dll
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.Client.pdb
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMomentsAPI.Models.pdb
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\Facebook.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\ZXing.pdb
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\ZXing.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\ZXing.pri
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Formatting.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.i.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\App.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xaml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\App.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xbf
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.exe
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.pdb
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting.pri
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\ZXing.pri.xml
+C:\Users\Onur\Desktop\HappyMoments\HappyMoments\obj\ARM\Debug\ProjectArchitectures.txt
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csprojResolveAssemblyReference.cache
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.i.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\XamlTypeInfo.g.cs
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\App.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\App.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\InvitePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\XamlSaveStateFile.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xaml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe.config
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\App.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\MainPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Style\AppBarButtonStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Style\TextBoxStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Style\ToggleSwitchStyle.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\DetailsGiftWalletPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\DetailsNotificationPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftCardPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftWalletPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\ContactPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\NotificationPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\SSSPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\HowToUsePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\InvitePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\LoginPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\MakeHappyPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\PinPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\ProfilePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\TimelinePage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\View\TokenPage.xbf
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.xr.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.pdb
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\resources.pri
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\AppxManifest.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.build.appxrecipe
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\DrawerLayout.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Facebook.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.Client.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMomentsAPI.Models.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Messaging.Managed.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\ModernHttpClient.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Formatting.dll
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.Client.pdb
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMomentsAPI.Models.pdb
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Facebook.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Formatting.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.exe
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.pdb
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csproj.GenerateResource.Cache
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile.pri
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting.pri
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\qualifiers.txt
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml.intermediate
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles.intermediate
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles.intermediate
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles.intermediate
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+D:\Projects\HappyMoments\Project\HappyMoments\HappyMoments\obj\ARM\Debug\ProjectArchitectures.txt
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe.config
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\App.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\MainPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Style\AppBarButtonStyle.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Style\TextBoxStyle.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Style\ToggleSwitchStyle.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\ContentDia\UpdatePinPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\DetailsGiftWalletPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\DetailsNotificationPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftCardPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftWalletPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\ContactPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\NotificationPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\SSSPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\HowToUsePage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\LoginPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\MakeHappyPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\PinPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\ProfilePage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\TimelinePage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\View\TokenPage.xbf
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.xr.xml
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.pdb
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\resources.pri
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\DrawerLayout.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Facebook.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.Client.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMomentsAPI.Models.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Messaging.Managed.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\ModernHttpClient.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Formatting.dll
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.Client.pdb
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMomentsAPI.Models.pdb
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Facebook.xml
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.xml
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.xml
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.xml
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.xml
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Formatting.xml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csprojResolveAssemblyReference.cache
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ContentDia\UpdatePinPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ContentDia\UpdatePinPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.i.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\XamlTypeInfo.g.cs
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\App.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ContentDia\UpdatePinPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\App.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ContentDia\UpdatePinPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\XamlSaveStateFile.xml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xaml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xbf
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.exe
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.pdb
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csproj.GenerateResource.Cache
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile.pri
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting.pri
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\qualifiers.txt
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml.intermediate
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles.intermediate
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles.intermediate
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles.intermediate
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+D:\Projects\HappyMoments\HappyMoments\obj\ARM\Debug\ProjectArchitectures.txt
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\AppxManifest.xml
+D:\Projects\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.build.appxrecipe
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe.config
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\App.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\MainPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Style\AppBarButtonStyle.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Style\TextBoxStyle.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Style\ToggleSwitchStyle.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\ContentDia\UpdatePinPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\DetailsGiftWalletPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\DetailsNotificationPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftCardPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\GiftWalletPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\ContactPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\NotificationPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\Hamburger\SSSPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\HowToUsePage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\LoginPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\MakeHappyPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\PinPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\ProfilePage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\TimelinePage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\View\TokenPage.xbf
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.xr.xml
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.exe
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.pdb
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\resources.pri
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\AppxManifest.xml
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.build.appxrecipe
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\DrawerLayout.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Facebook.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.Client.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMomentsAPI.Models.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Messaging.Managed.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\ModernHttpClient.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Formatting.dll
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMoments.Client.pdb
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\HappyMomentsAPI.Models.pdb
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Facebook.xml
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Onur\HappyMoments\HappyMoments\bin\ARM\Debug\System.Net.Http.Formatting.xml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csprojResolveAssemblyReference.cache
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\App.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\ContentDia\UpdatePinPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\ContentDia\UpdatePinPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.i.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\App.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\ContentDia\UpdatePinPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\App.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\MainPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\AppBarButtonStyle.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\TextBoxStyle.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Style\ToggleSwitchStyle.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\ContentDia\UpdatePinPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsGiftWalletPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\DetailsNotificationPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftCardPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\GiftWalletPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\ContactPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\CreditCardsPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\NotificationPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\Hamburger\SSSPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\HowToUsePage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\LoginPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\PinPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\ProfilePage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\TimelinePage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\TokenPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xaml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\View\MakeHappyPage.xbf
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.exe
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.pdb
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\HappyMoments.csproj.GenerateResource.Cache
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting.pri
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Onur\HappyMoments\HappyMoments\obj\ARM\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate

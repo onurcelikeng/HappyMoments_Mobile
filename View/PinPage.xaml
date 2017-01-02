@@ -1,0 +1,25 @@
+﻿<ContentDialog
+    x:Class="HappyMoments.View.PinPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HappyMoments.View"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    PrimaryButtonText="Kaydet"
+    
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick">
+
+    <Grid Margin="10,30,10,10">
+
+        <StackPanel>
+
+            <TextBlock FontSize="20" FontFamily="Calibri" TextWrapping="WrapWholeWords" Text="Ödeme yapabilmeniz için 4 taneli güvenlik kodunuzu belirleyiniz."/>
+
+            <TextBox x:Name="pinTextBox" Background="Transparent" InputScope="Number" FontFamily="Calibri" TextWrapping="Wrap" BorderBrush="Red" BorderThickness="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+
+        </StackPanel>
+
+    </Grid>
+
+</ContentDialog>

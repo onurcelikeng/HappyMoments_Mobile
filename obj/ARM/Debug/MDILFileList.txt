@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <file>\HappyMoments.exe</file>
+  <file>\Microsoft.WindowsAzure.Mobile.dll</file>
+  <file>\Microsoft.WindowsAzure.Mobile.Ext.dll</file>
+  <file>\Newtonsoft.Json.dll</file>
+  <file>\System.Net.Http.Extensions.dll</file>
+  <file>\System.Net.Http.Primitives.dll</file>
+  <file>\DrawerLayout.dll</file>
+  <file>\Facebook.dll</file>
+  <file>\HappyMoments.Client.dll</file>
+  <file>\HappyMomentsAPI.Models.dll</file>
+  <file>\ModernHttpClient.dll</file>
+  <file>\System.Net.Http.Formatting.dll</file>
+  <file>\Microsoft.WindowsAzure.Messaging.Managed.dll</file>
+</Files>

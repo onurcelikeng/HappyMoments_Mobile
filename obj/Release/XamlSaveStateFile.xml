@@ -1,0 +1,16 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\projects\happymoments\project\happymoments\happymoments\obj\release\intermediatexaml\happymoments.exe" HashGuid="3e887bcb-0150-4e81-094d-af6ff6630b15" />
+    <ReferenceAssembly PathName="d:\projects\happymoments\project\happymoments\packages\drawerlayout.1.0.4\lib\drawerlayout.dll" HashGuid="b0d3b3f8-90b7-6a66-b416-66f64dcf26fa" />
+    <ReferenceAssembly PathName="d:\projects\happymoments\project\happymoments\packages\facebook.7.0.6\lib\portable-win81+wpa81\facebook.dll" HashGuid="b23a2499-2700-fb5e-a497-93d9e719fc0b" />
+    <ReferenceAssembly PathName="d:\projects\happymoments\project\happymoments\happymoments.client\bin\release\happymoments.client.dll" HashGuid="821a7ac2-0587-ac5f-573a-63b0adeff962" />
+    <ReferenceAssembly PathName="d:\projects\happymoments\project\happymoments\happymomentsapi.models\bin\release\happymomentsapi.models.dll" HashGuid="3f49241d-6c09-78dc-2574-7c0201cdb40c" />
+    <ReferenceAssembly PathName="d:\projects\happymoments\project\happymoments\packages\windowsazure.messaging.managed.0.1.7.9\lib\wpa81\microsoft.windowsazure.messaging.managed.dll" HashGuid="a6c77c87-a1d1-2c9f-340a-0958f7d05449" />
+    <ReferenceAssembly PathName="d:\projects\happymoments\project\happymoments\packages\windowsazure.mobileservices.1.3.2\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="5b462045-d27b-e518-25e9-78bf6305d2d1" />
+    <ReferenceAssembly PathName="d:\projects\happymoments\project\happymoments\packages\windowsazure.mobileservices.1.3.2\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="55d46a17-b94f-0632-1660-bd4332856778" />
+    <ReferenceAssembly PathName="d:\projects\happymoments\project\happymoments\packages\modernhttpclient.2.4.2\lib\portable-net45+winrt45+wp8+wpa81\modernhttpclient.dll" HashGuid="06558e2e-bf09-53c9-5fa3-375082b5eae2" />
+    <ReferenceAssembly PathName="d:\projects\happymoments\project\happymoments\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="d:\projects\happymoments\project\happymoments\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="d:\projects\happymoments\project\happymoments\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

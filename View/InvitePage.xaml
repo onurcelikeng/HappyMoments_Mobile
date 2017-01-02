@@ -1,0 +1,149 @@
+﻿<Page
+    x:Class="HappyMoments.View.InvitePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HappyMoments.Controller"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Background>
+        <SolidColorBrush Color="#f8f8f8"/>
+    </Page.Background>
+
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <SlideNavigationTransitionInfo/>
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+
+    <Page.Resources>
+        <local:SmallFontsizeConverter x:Key="FontSizeConverter"/>
+    </Page.Resources>
+
+    <Grid>
+
+        <Grid.Background>
+            <SolidColorBrush Color="#f8f8f8"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+
+            <TextBlock Text="Facebook arkadaşlarını davet et, kumbaranı oluştur!" Foreground="#b1afaf" FontFamily="Calibri" Margin="30,0,30,0" VerticalAlignment="Bottom" TextWrapping="WrapWholeWords" TextAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+
+            <ListView SelectionMode="None">
+
+                <ListView.Resources>
+
+                    <DataTemplate x:Key="myCell">
+
+                        <Grid Height="100">
+
+                            <Grid.Background>
+                                <SolidColorBrush Color="#f5f5f5"/>
+                            </Grid.Background>
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="4*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Grid Grid.Column="0">
+
+                                <Ellipse Width="60" Height="60" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <Ellipse.Fill>
+                                        <ImageBrush ImageSource="{Binding ProfileImage}" Stretch="UniformToFill"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                
+                            </Grid>
+
+                            <Grid Grid.Column="1">
+
+                                <TextBlock Text="{Binding FullName}" Foreground="Black" FontFamily="Calibri" Margin="30,0,30,0" HorizontalAlignment="Left" VerticalAlignment="Center" TextWrapping="WrapWholeWords" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                            </Grid>
+
+                            <Grid Grid.Column="2">
+
+                                <Grid>
+
+                                    <Rectangle Fill="#ef5357" RadiusX="10" RadiusY="10" Height="auto" HorizontalAlignment="Stretch" Margin="0,0,0,0"/>
+
+                                    <TextBlock Text="Davet et" Margin="0,10,0,10" FontFamily="Calibri" FontWeight="Normal" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+                                </Grid>
+                                
+                            </Grid>
+
+                        </Grid>
+
+                    </DataTemplate>
+
+                </ListView.Resources>
+
+                <ListView.ItemContainerStyle>
+
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                        <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                        <Setter Property="VerticalAlignment" Value="Stretch"/>
+                    </Style>
+
+                </ListView.ItemContainerStyle>
+
+                <ListView.ItemTemplate>
+                    <StaticResource ResourceKey="myCell"/>
+                </ListView.ItemTemplate>
+
+            </ListView>
+
+        </Grid>
+
+        <Grid Grid.Row="2">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid  Grid.Column="1" Margin="0,30,0,30">
+
+                <Rectangle Fill="#8ec14b" RadiusX="10" RadiusY="10" Height="auto" HorizontalAlignment="Stretch" Margin="0,0,0,0"/>
+
+                <TextBlock Text="Önceki sayfa" Margin="0,10,0,10" FontFamily="Calibri" FontWeight="Normal" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+            </Grid>
+
+            <Grid  Grid.Column="3" Margin="0,30,0,30">
+
+                <Rectangle Fill="#8ec14b" RadiusX="10" RadiusY="10" Height="auto" HorizontalAlignment="Stretch" Margin="0,0,0,0"/>
+
+                <TextBlock Text="Sonraki sayfa" Margin="0,10,0,10" FontFamily="Calibri" FontWeight="Normal" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}"/>
+
+            </Grid>
+
+
+        </Grid>
+
+    </Grid>
+    
+</Page>

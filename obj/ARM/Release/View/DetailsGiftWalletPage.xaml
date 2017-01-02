@@ -1,0 +1,103 @@
+﻿<Page
+    x:Class="HappyMoments.View.DetailsGiftWalletPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HappyMoments.Controller"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Background>
+        <SolidColorBrush Color="#FFECF0F1"/>
+    </Page.Background>
+
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <SlideNavigationTransitionInfo/>
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+
+    <Page.Resources>
+        <local:SmallFontsizeConverter x:Key="FontSizeConverter"/>
+    </Page.Resources>
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+
+            <Image Source="{Binding CoverImage}" Margin="20" Stretch="Uniform"/>
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+
+            <StackPanel Margin="40,0,40,0">
+
+                <Grid Margin="0,10,0,0">
+
+                    <TextBlock FontFamily="Calibri" Foreground="#FF727272" TextAlignment="Left" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}">
+                        <Run Text="Tutar :"/>
+                        <Run Text="{Binding Money}" FontWeight="Bold"/>
+                        <Run Text="TL"/>
+                    </TextBlock>
+
+                </Grid>
+
+                <Grid Height="1" Margin="0,20,0,0" VerticalAlignment="Stretch">
+
+                    <Grid.Background>
+                        <SolidColorBrush Color="#b6b6b6"/>
+                    </Grid.Background>
+
+                </Grid>
+
+                <Grid Margin="0,20,0,0">
+
+                    <TextBlock FontFamily="Calibri" Foreground="#FF727272" TextAlignment="Left" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}">
+                        <Run Text="Son Kullanma Tarihi :"/>
+                        <Run Text="{Binding ExpireDate}" FontWeight="Bold"/>
+                    </TextBlock>
+
+                </Grid>
+
+                <Grid Height="1" Margin="0,20,0,0" VerticalAlignment="Stretch">
+
+                    <Grid.Background>
+                        <SolidColorBrush Color="#b6b6b6"/>
+                    </Grid.Background>
+
+                </Grid>
+
+                <Grid Margin="0,20,0,0">
+
+                    <TextBlock FontFamily="Calibri" Foreground="#FF727272" TextAlignment="Left" FontSize="{Binding Converter={StaticResource FontSizeConverter}, RelativeSource={RelativeSource Mode=Self}}">
+                        <Run Text="Çek Kodu :"/>
+                        <Run Text="{Binding Code}" FontWeight="Bold"/>
+                    </TextBlock>
+
+                </Grid>
+
+            </StackPanel>
+            
+        </Grid>
+
+        <Grid Grid.Row="2">
+
+            <Image Source="{Binding QRCode}" Stretch="Uniform" Margin="20"/>
+
+        </Grid>
+
+    </Grid>
+
+</Page>
+
